@@ -1,8 +1,8 @@
 # HPCC-ECL-training
 
-Training content delivered online by Lexis Nexis Risk Solution ECL Basic, Advanced and Applied.
+Training content delivered online by [HPCC Systems](https://hpccsystems.com/pt-br/training) ECL Basic, Advanced and Applied.
 
-To find training on this content, visit https://risk.lexisnexis.com/
+To find training on this content, visit https://hpccsystems.com/
 
 ## Basic 
 ### Introduction ECL
