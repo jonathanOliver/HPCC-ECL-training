@@ -1,0 +1,1 @@
+﻿EXPORT BWR_Fn_teste_valor := 'todo';
